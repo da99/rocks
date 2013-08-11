@@ -1,0 +1,13 @@
+commands = {}
+modules = {}
+repository = {
+   jam_bo_ree = {
+      ['1.0-1'] = {
+         {
+            arch = "all"
+         }, {
+            arch = "rockspec"
+         }
+      }
+   }
+}
